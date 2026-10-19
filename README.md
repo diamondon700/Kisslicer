@@ -216,4 +216,4 @@ KISSlicer is available as a full free version with all features and updates incl
 Start enhancing your 3D printing projects today with KISSlicer! Download now and experience the difference!
 
 ---
-**Last updated:** 2026-10-18 22:54:49 UTC
+**Last updated:** 2026-10-19 00:59:27 UTC
